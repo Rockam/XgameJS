@@ -1,0 +1,50 @@
+<!doctype html>
+<meta charset="UTF-8">
+
+<title>Ball physics simulation</title>
+
+<!-- The canvas -->
+<canvas width="800" height="600" style="border:3px solid #000; margin:5px auto;">
+	No canvas supported
+</canvas>
+
+<form style="position:absolute; top:16px; left:832px;">
+	<input type="button" id="generate" value="Generate ball">
+	<br>
+	<input type="checkbox" name="gravity" id="gravity" value="ON">Gravedad
+	<br>
+	<input type="radio" name="gravityDir" id="gravityDir" value="0" checked disabled>Down
+	<br>
+	<input type="radio" name="gravityDir" id="gravityDir" value="1" disabled>Up
+	<br>
+	<input type="radio" name="gravityDir" id="gravityDir" value="2" disabled>Left
+	<br>
+	<input type="radio" name="gravityDir" id="gravityDir" value="3" disabled>Right
+	<br>
+	<input type="button" id="reset" value="Remove all balls">
+</form>
+
+<!-- The game code -->
+<script src="../JS/XgameJS/requestAnimationFramePolyfill.js"></script>
+<script src="../JS/XgameJS/Sprite.js"></script>
+<script src="../JS/XgameJS/AnimatedSprite.js"></script>
+<script src="../JS/XgameJS/Ball.js"></script>
+<script src="../JS/XgameJS/Circle.js"></script>
+<script src="../JS/XgameJS/GameStates.js"></script>
+<script src="../JS/XgameJS/GravityDirections.js"></script>
+<script src="../JS/Demo_Balls.js"></script>
+<!-- XNA -->
+<script src="../JS/XNA_Classes/ContentManager.js"></script>
+<script src="../JS/XNA_Classes/GraphicsDevice.js"></script>
+<script src="../JS/XNA_Classes/Keyboard.js"></script>
+<script src="../JS/XNA_Classes/Keys.js"></script>
+<script src="../JS/XNA_Classes/Mouse.js"></script>
+<script src="../JS/XNA_Classes/Point.js"></script>
+<script src="../JS/XNA_Classes/Program.js"></script>
+<script src="../JS/XNA_Classes/Rectangle.js"></script>
+<script src="../JS/XNA_Classes/Song.js"></script>
+<script src="../JS/XNA_Classes/SoundEffect.js"></script>
+<script src="../JS/XNA_Classes/SpriteBatch.js"></script>
+<script src="../JS/XNA_Classes/SpriteEffects.js"></script>
+<script src="../JS/XNA_Classes/Texture2D.js"></script>
+<script src="../JS/XNA_Classes/Vector2.js"></script>
