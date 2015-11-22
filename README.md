@@ -1,6 +1,6 @@
 # XgameJS
 ------
-JavaScript framework similar to XNA to develop simple 2D games on HTML5
+JavaScript framework similar to XNA to develop simple 2D games on HTML5 through canvas.
 
 ## Motivation
 XNA is a framework with a managed runtime environment provided by Microsoft that facilitates video game development, but was discontinued in 2013.
