@@ -12,9 +12,9 @@ The main entry point is the **_Program_** class, which instances the **_Game_** 
 ![alt text](https://github.com/Rockam/XgameJS/blob/master/execution_flow.jpg "Execution flow")
 
 ## How to use it
-You can simply pick the [src/JS/XNA_Classes/Game.js](https://github.com/Rockam/XgameJS/blob/master/src/JS/XNA_Classes/Game.js) class, copy it wherever you want, and modify it in order to develop your own game. Then create an HTML file and reference all the classes you use in there.
+You can simply pick the [src/JS/XNA_Classes/Game.js](https://github.com/Rockam/XgameJS/blob/master/src/JS/XNA_Classes/Game.js) class, copy it wherever you want, and modify it in order to develop your own game. Then create an HTML file with a canvas and reference all the classes you use in there.
 
-The **simple way to know how to use it** is watching the demos already done (located at _src/HTML_) and inspecting them.
+The **simple way to know how to use it** is watching the demos already done (located at [_src/HTML_](https://github.com/Rockam/XgameJS/tree/master/src/HTML)) and inspecting them.
 The main demo is a classic **_Rayman_** style level that I've made with XgameJS, hope you enjoy it :D
 
 ![alt text](https://github.com/Rockam/XgameJS/blob/master/Rayman_screenshot.png "Rayman demo")
