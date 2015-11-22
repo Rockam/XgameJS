@@ -19,4 +19,6 @@ The main demo is a classic **_Rayman_** style level that I've made with XgameJS,
 
 ![alt text](https://github.com/Rockam/XgameJS/blob/master/Rayman_screenshot.png "Rayman demo")
 
-
+##Disclaimer
+I don't own the rights of any _Rayman_ images or sounds used in this project. 
+You are free to use XgameJS on your own projects and extend the functionality.
