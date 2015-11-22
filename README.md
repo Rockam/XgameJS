@@ -4,7 +4,7 @@ JavaScript framework similar to XNA to develop simple 2D games on HTML5
 
 ## Motivation
 XNA is a framework with a managed runtime environment provided by Microsoft that facilitates video game development, but was discontinued in 2013.
-This little project tries to adapt a part of XNA to JavaScript, using some classes similar to XNA and extending the framework with other classes that help on the 2D game development, like Sprite, Camera, Circle, etc.
+This little project tries to adapt a part of XNA to JavaScript, using some classes similar to XNA and extending the framework with other classes that help on the 2D game development, like _Sprite_, _Camera_, _Circle_, etc.
 
 ## Execution flow
 The main entry point is the **_Program_** class, which instances the **_Game_** class, in charge of running and maintaining the game loop.
