@@ -6,7 +6,7 @@ JavaScript framework similar to XNA to develop simple 2D games on HTML5
 You can simply pick the _src/JS/XNA_Classes/Game.js_ class, copy it wherever you want, and modify it in order to develop your own game. Then create an HTML file and reference all the classes you use in there.
 
 The **simple way to know how to use it** is watching the demos already done (located at _src/HTML_) and inspecting them.
-The main demo is a classic **_Rayman_** style level that I've made woth XgameJS, hoy you enjoy it :D
+The main demo is a classic **_Rayman_** style level that I've made with XgameJS, hope you enjoy it :D
 
 ![alt text](https://github.com/Rockam/XgameJS/blob/master/Rayman_screenshot.png "Rayman demo")
 
